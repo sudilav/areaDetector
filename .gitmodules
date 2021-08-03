@@ -10,3 +10,9 @@
 [submodule "NDDriverStdArrays"]
 	path = NDDriverStdArrays
 	url = https://github.com/areaDetector/NDDriverStdArrays.git
+[submodule "ADSupport"]
+	path = ADSupport
+	url = https://github.com/sudilav/ADSupport.git
+[submodule "ADPICam"]
+	path = ADPICam
+	url = https://github.com/mfurseman/ADPICam.git
