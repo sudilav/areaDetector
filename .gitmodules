@@ -4,15 +4,9 @@
 [submodule "ADCore"]
 	path = ADCore
 	url = https://github.com/areaDetector/ADCore.git
-[submodule "ADPICam"]
-	path = ADPICam
-	url = https://github.com/areaDetector/ADPICam.git
 [submodule "ADSimDetector"]
 	path = ADSimDetector
 	url = https://github.com/areaDetector/ADSimDetector.git
-[submodule "ADSupport"]
-	path = ADSupport
-	url = https://github.com/areaDetector/ADSupport.git
 [submodule "NDDriverStdArrays"]
 	path = NDDriverStdArrays
 	url = https://github.com/areaDetector/NDDriverStdArrays.git
